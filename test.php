@@ -6,5 +6,6 @@ echo 'test again';
 echo 'again';
 echo 'final';
 echo 'again';
+echo 'finshed';
 
 ?>
