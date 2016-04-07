@@ -1,0 +1,6 @@
+{
+ "project.id" : "1",
+ "repository.id" : "2",
+ "phabricator.uri" : "http://phabricator.zdev.net/",
+ "zomato.base" : "vinothsparrow:master"
+}
