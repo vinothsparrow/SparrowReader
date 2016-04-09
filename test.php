@@ -11,6 +11,5 @@ echo 'test reviewer';
 echo 'no no ok';
 echo 'finally everything done';
 echo 'test update ok nahi then ok';
-echo 'finally';
 
 ?>
