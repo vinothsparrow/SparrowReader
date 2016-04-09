@@ -13,6 +13,6 @@ echo 'finally everything done';
 echo 'done';
 echo 'test update ok nahi then ok ok';
 echo 'Agin changed';
-echo 'Ok';
+echo 'Ok test';
 
 ?>
